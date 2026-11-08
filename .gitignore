@@ -1,0 +1,13 @@
+# Rust build artifacts
+/target/
+/dist/
+
+# generated screenshots
+*.png
+
+# OS cruft
+Thumbs.db
+desktop.ini
+
+# keep documentation screenshots
+!docs/*.png
